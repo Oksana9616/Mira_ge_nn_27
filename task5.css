@@ -182,7 +182,7 @@ ul {
 
 /* Герой */
 .hero {
-    background: url('../task5/фото1.jpg') no-repeat center center/cover;
+    background: url('фото1.jpg') no-repeat center center/cover;
     height: 100vh;
     color:#ebf6fa;
     display: flex;
